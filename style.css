@@ -271,15 +271,19 @@ hr{
  font-size:2rem;
 }
 .title{
-   
-   
-   padding-left: 120px;
-   margin-top: -250px;
-   height:100px;
-  
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: space-around;
+   text-align: center;
+   padding-left: 70px;
+   margin-top: -290px;
    
 
 }
+  .our-story{
+position: relative;
+  left:200px;
 .line{
     display: none;
 }
