@@ -284,10 +284,12 @@ hr{
   .our-story{
 position: relative;
   left:200px;
+}
 .line{
     display: none;
 }
 .para-1{
+    text-align: center;
     width:350px;
     position: relative;
     padding-top:110px;
@@ -325,4 +327,9 @@ position: relative;
     
 
 }
+
+   
+
+    
+
 
