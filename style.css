@@ -272,19 +272,25 @@ hr{
 }
 .title{
    
-   margin: 0 auto;
-   padding-left: 100px;
-    
+   
+   padding-left: 120px;
+   margin-top: -250px;
+   height:100px;
+  
+   
 
 }
 .line{
     display: none;
 }
-.main-story p{
+.para-1{
+    width:350px;
+    position: relative;
+    padding-top:110px;
+    left:-200px;
+    margin-bottom: 20px;
+   
     
-    display: flex;
-    flex-direction: column;
-    align-self: end;
 }
 
 .title-style-two{
@@ -296,9 +302,11 @@ hr{
     padding:0 10px;
 }
 .title-three{
+    margin-top:2px;
     margin-bottom: 70px;
     text-align: center;
 }
+
 .btn-2{
     margin-bottom:20px;
     margin-left: 40%;
@@ -313,3 +321,4 @@ hr{
     
 
 }
+
